@@ -1,4 +1,4 @@
-# mywebsite
+# My Website
 ## This is about my website.
 
 ### Website Link: https://cssexamples.github.io/mywebsite/
