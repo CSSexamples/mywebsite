@@ -1,7 +1,5 @@
 # My Website
-## This is about my website.
-
-### Website Link: <a href="https://cssexamples.github.io/mywebsite/" target="_blank">mywebsite</a>
+## This is about "mywebsite" and it is based on HTML and CSS.
 
 ### Screenshot:
 
